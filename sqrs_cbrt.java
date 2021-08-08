@@ -25,11 +25,14 @@ public class sqrs_cbrt {
 		System.out.println("cube rootof given number = "+Math.cbrt(marksOne));
 		
 		
-		
+	
 
 	}
 
 		public void masterMethod(){
 			System.out.println("masterMethod");
 		}
+ public void ramu() {
+	 system.out.println("sriram method");
+ }
 }
