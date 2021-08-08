@@ -33,6 +33,9 @@ public class sqrs_cbrt {
 			System.out.println("masterMethod");
 		}
  public void ramu() {
-	 system.out.println("sriram method");
+	 system.out.println("ram method");
+ }
+ public void sriram() {
+	 system.out.println("sriram method")
  }
 }
