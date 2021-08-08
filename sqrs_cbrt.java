@@ -29,4 +29,7 @@ public class sqrs_cbrt {
 
 	}
 
+		public void masterMethod(){
+			System.out.println("masterMethod");
+		}
 }
